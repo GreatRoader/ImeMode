@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">输入法状态</string>
+    <string name="show" translatable="false">显示</string>
+    <string name="hidden" translatable="false">隐藏</string>
+</resources>
